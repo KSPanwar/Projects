@@ -1,2 +1,4 @@
 # Projects
-Different projects build to learn languages
+Hello Welcome to this repository,
+In this repository you will find different working projects build to learn software development.
+ThankS
