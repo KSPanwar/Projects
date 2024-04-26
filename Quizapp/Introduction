@@ -1,0 +1,14 @@
+Introduction:
+Hey,
+This project is done to learn about different CRUD operation using spring boot.
+This is only the back-end of the quiz application.
+We are using postgresql as the data base for our questions and to store each quiz which you are generating by hitting postrequest.
+Name of the each method and class is self explanatory.
+
+You can run the code in your personal space.
+Now to configure this code for you space.
+1. EDIT : Application.properties file to redirect it your server.
+2. Know your question structure and edit the question class accordingly.
+3. Your table name should match the DAO classes.
+
+Thank You
