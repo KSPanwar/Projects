@@ -1,0 +1,4 @@
+Creating a web page using JSP, SQL DataBase
+To make this work in your system:
+Change JSPDao in DAO folder:
+JSPDao: Replace SQL queries in this file as per your need
